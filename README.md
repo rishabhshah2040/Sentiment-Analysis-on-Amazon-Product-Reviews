@@ -17,7 +17,7 @@ Our goal is to perform sentiment analysis on Amazon product reviews to determine
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-## Codelabs- 
+## Codelabs
 https://codelabs-preview.appspot.com/?file_id=1n1k6BeIDIsMW3hNbt7C57kjlkuq5OiEp3p5lKp4DBdQ#3
 
 
